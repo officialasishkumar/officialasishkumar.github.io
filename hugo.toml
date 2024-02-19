@@ -9,10 +9,10 @@ copyright = '&copy; Copyright {year}, Asish Kumar'
 
 [menu]
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    title = "Posts"
-    url = "/post/"
+    identifier = "blogs"
+    name = "Blogs"
+    title = "Blogs"
+    url = "/Blogs/"
     weight = -100
 
 [params] 
