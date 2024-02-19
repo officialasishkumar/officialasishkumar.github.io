@@ -17,7 +17,7 @@ copyright = '&copy; Copyright 2024, Asish Kumar'
 
 [params] 
     header_title = "Asish Kumar"
-    header_subtitle = "burner of poptarts; breaker of things"
+    header_subtitle = "Software Engineer | 🇮🇳"
     recent_posts = 5
     [params.style]                             # CSS style overrides
         backgroundColor = '#131418'
