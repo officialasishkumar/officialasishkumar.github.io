@@ -15,4 +15,4 @@ I came to know about this program through a youtube video. I was given some pre 
 After completing the pre-tasks, I applied for the project and eventually got selected. 
 
 The first task was to translate [Merkuro](https://apps.kde.org/merkuro.calendar/) in Hindi. 
-I used a software by kde called [Lokalize](https://apps.kde.org/lokalize/) to translate the application. If you wish to get started using Lokalize, 
+I used a software by kde called [Lokalize](https://apps.kde.org/lokalize/) to translate the application. If you wish to get started using Lokalize, you can read this [blog](https://raghukamath.com/how-to-translate-krita-to-your-own-language/) by Raghu Kamath.  
