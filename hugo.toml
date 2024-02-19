@@ -5,7 +5,7 @@ theme = 'devise'
 enableEmoji = true
 relativeURLs = true
 enableRobotsTXT = true
-copyright = '&copy; Copyright {year}, Asish Kumar'
+copyright = '&copy; Copyright 2024, Asish Kumar'
 
 [menu]
   [[menu.main]]
