@@ -6,7 +6,7 @@ enableEmoji = true
 relativeURLs = true
 enableRobotsTXT = true
 copyright = '&copy; Copyright 2024, Asish Kumar'
-googleAnalytics = "env(googleAnalytics)"
+googleAnalytics = "G-7VBR15LLC5"
 
 [menu]
   [[menu.main]]
