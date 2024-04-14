@@ -18,8 +18,8 @@ In order to translate these softwares, I took reference from google translate an
 
 A good addition in lokalize would be to add another section which automatically translates the sentence using google translate or AI models. This will speed up the translation work and make the translation of apps better since we can take reference from it.
 
-You can find the translation on the following github links:
-- https://github.com/officialasishkumar/translation-kde-applications/tree/main/kdeconnect
-- https://github.com/officialasishkumar/translation-kde-applications/tree/main/cantor
+You can find the translation on the following links:
+- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads
+- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads
 
 I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing valuable guidance throughout the Season of KDE mentorship program. 
