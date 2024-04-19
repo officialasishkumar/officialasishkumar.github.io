@@ -4,7 +4,7 @@
     <title>SoK on Asish Kumar - Software Engineer in India</title>
     <link>http://localhost:1313/tags/sok/</link>
     <description>Recent content in SoK on Asish Kumar - Software Engineer in India</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo 0.125.1</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2024, Asish Kumar</copyright>
     <lastBuildDate>Sat, 13 Apr 2024 00:00:00 +0000</lastBuildDate>
@@ -14,7 +14,7 @@
       <link>http://localhost:1313/blogs/cantor-kdeconnect-hindi-translation-sok-2024/</link>
       <pubDate>Sat, 13 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blogs/cantor-kdeconnect-hindi-translation-sok-2024/</guid>
-      <description>Hindi Translation of Cantor and KDE connect - Season of KDE 2024 In this blog, I will discuss my experience with season of KDE 2024.&#xA;I came to know about this program through a youtube video. I was given some pre tasks to complete by the mentors of the project which can be found at https://github.com/officialasishkumar/translation-kde-applications.&#xA;After completing the pre-tasks, I applied for the project and eventually got selected.&#xA;During my SoK period, I have to translate Merkuro, KDE connect, KTorrent and Cantor in Hindi.</description>
+      <description>Hindi Translation of Cantor and KDE connect - Season of KDE 2024 This is the second and last blog for SoK 2024.&#xA;During the second half of Season of KDE, I translated Cantor and KDE connect in hindi. Cantor and KDE connect had about 1000 and 500 lines respectively.&#xA;In order to translate these softwares, I took reference from google translate and AI models to improve on my translation. Translation memory did a great job in finding duplicates and helped me to avoid translating the same words again.</description>
     </item>
     <item>
       <title>Hindi Translation of Merkuro - SoK 2024</title>

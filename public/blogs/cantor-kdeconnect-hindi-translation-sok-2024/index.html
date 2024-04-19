@@ -18,16 +18,25 @@
     
 
     
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-7VBR15LLC5"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-7VBR15LLC5', { 'anonymize_ip': false });
-}
-</script>
+  
+    
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-7VBR15LLC5"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-7VBR15LLC5');
+        }
+      </script>
+    
+  
+
 
 </head>
 <body>
@@ -82,10 +91,11 @@ if (!doNotTrack) {
 <p>During the second half of Season of KDE, I translated Cantor and KDE connect in hindi. Cantor and KDE connect had about 1000 and 500 lines respectively.</p>
 <p>In order to translate these softwares, I took reference from google translate and AI models to improve on my translation. Translation memory did a great job in finding duplicates and helped me to avoid translating the same words again.</p>
 <p>A good addition in lokalize would be to add another section which automatically translates the sentence using google translate or AI models. This will speed up the translation work and make the translation of apps better since we can take reference from it.</p>
-<p>You can find the translation on the following github links:</p>
+<p>I would also like to recommend this awesome dictionary for hindi: <a href="https://www.shabdkosh.com/">https://www.shabdkosh.com/</a></p>
+<p>You can find the translation on the following links:</p>
 <ul>
-<li><a href="https://github.com/officialasishkumar/translation-kde-applications/tree/main/kdeconnect">https://github.com/officialasishkumar/translation-kde-applications/tree/main/kdeconnect</a></li>
-<li><a href="https://github.com/officialasishkumar/translation-kde-applications/tree/main/cantor">https://github.com/officialasishkumar/translation-kde-applications/tree/main/cantor</a></li>
+<li><a href="https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads">https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads</a></li>
+<li><a href="https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads">https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads</a></li>
 </ul>
 <p>I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing valuable guidance throughout the Season of KDE mentorship program.</p>
 

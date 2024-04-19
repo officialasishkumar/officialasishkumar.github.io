@@ -16,7 +16,9 @@ During the second half of Season of KDE, I translated Cantor and KDE connect in 
 
 In order to translate these softwares, I took reference from google translate and AI models to improve on my translation. Translation memory did a great job in finding duplicates and helped me to avoid translating the same words again.
 
-A good addition in lokalize would be to add another section which automatically translates the sentence using google translate or AI models. This will speed up the translation work and make the translation of apps better since we can take reference from it.
+A good addition in lokalize would be to add another section which automatically translates the sentence using google translate or AI models. This will speed up the translation work and make the translation of apps better since we can take reference from it. 
+
+I would also like to recommend this awesome dictionary for hindi: https://www.shabdkosh.com/
 
 You can find the translation on the following links:
 - https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads
