@@ -20,6 +20,12 @@ A good addition in lokalize would be to add another section which automatically 
 
 I would also like to recommend this awesome dictionary for hindi: https://www.shabdkosh.com/
 
+I also build the application. Here are some of the screenshots of the translated application: <br/>
+
+<img src="/images/cantor-translation-octave.png" style="width: 100%;"><br/><br/>
+<img src="/images/cantor-translation-sage.png" style="width: 100%;"><br/>
+
+
 You can find the translation on the following links:
 - https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads
 - https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads
