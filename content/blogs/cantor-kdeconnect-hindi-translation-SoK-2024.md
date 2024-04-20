@@ -19,10 +19,15 @@ In order to translate these softwares, I took reference from google translate an
 A good addition in lokalize would be to add another section which automatically translates the sentence using google translate or AI models. This will speed up the translation work and make the translation of apps better since we can take reference from it. 
 
 <br />
-I also build the application. Here are some of the screenshots of the translated application: <br/>
+I also build cantor. Here are some of the screenshots of the translated application: <br/>
 <br />
 <img src="/images/cantor-translation-octave.png" style="width: 100%;"><br/><br/>
-<img src="/images/cantor-translation-sage.png" style="width: 100%;"><br/>
+
+<img src="/images/cantor-translation-shortcut.png" style="width: 100%;"><br/><br/>
+
+<img src="/images/cantor-translation-tools.png" style="width: 100%;"><br/><br/>
+
+<img src="/images/cantor-translation-worksheet.png" style="width: 100%;"><br/><br/>
 <br/>
 
 You can find the translation on the following links:
