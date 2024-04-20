@@ -18,16 +18,26 @@ In order to translate these softwares, I took reference from google translate an
 
 A good addition in lokalize would be to add another section which automatically translates the sentence using google translate or AI models. This will speed up the translation work and make the translation of apps better since we can take reference from it. 
 
-I would also like to recommend this awesome dictionary for hindi: https://www.shabdkosh.com/
-
+<br />
 I also build the application. Here are some of the screenshots of the translated application: <br/>
-
+<br />
 <img src="/images/cantor-translation-octave.png" style="width: 100%;"><br/><br/>
 <img src="/images/cantor-translation-sage.png" style="width: 100%;"><br/>
-
+<br/>
 
 You can find the translation on the following links:
 - https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads
-- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads
+- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads <br/>
+<br/>
+
+Here are some tools/applications that I found helpful: 
+
+- https://models.ai4bharat.org/#/nmt/v2
+- https://translate.google.com/
+- https://github.com/freedict/fd-dictionaries/tree/master/eng-hin
+- https://hickford.github.io/xkb-layout-explorer/
+- https://mike-fabian.github.io/ibus-typing-booster/
+
+<br/>
 
 I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing valuable guidance throughout the Season of KDE mentorship program. 
