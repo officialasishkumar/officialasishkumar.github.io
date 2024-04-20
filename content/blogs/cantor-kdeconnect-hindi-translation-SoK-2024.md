@@ -31,8 +31,8 @@ I also build cantor. Here are some of the screenshots of the translated applicat
 <br/>
 
 You can find the translation on the following links:
-- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/cantor?ref_type=heads
-- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/main/kdeconnect?ref_type=heads <br/>
+- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/master/cantor?ref_type=heads
+- https://invent.kde.org/asishkumar/translation-kde-in-hindi/-/tree/master/kdeconnect?ref_type=heads <br/>
 <br/>
 
 Here are some tools/applications that I found helpful: 
