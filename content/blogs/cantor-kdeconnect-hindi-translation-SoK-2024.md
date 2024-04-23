@@ -45,4 +45,4 @@ Here are some tools/applications that I found helpful:
 
 <br/>
 
-I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing valuable guidance throughout the Season of KDE mentorship program. 
+I would like to thank my mentors, Benson Muite, Raghavendra Kamath and karunakar for providing valuable guidance throughout the Season of KDE mentorship program. 

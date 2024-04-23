@@ -31,7 +31,7 @@ In case you wish to get started translating a KDE application in your preferred 
 Some of the best features of lokalize is Translation Memory. You can avoid translating same words by using this tool.
 <img src="/images/translation-memory-lokalize.png">
 
-I would like to thank my mentors, Benson Muite and Raghavendra Kamath for providing guidance. I would also like to thank Aakarsh MJ for taking up the work to review Merkuro translation.
+I would like to thank my mentors, Benson Muite, Raghavendra Kamath and karunakar for providing guidance. I would also like to thank Aakarsh MJ for taking up the work to review Merkuro translation.
 
 
 
