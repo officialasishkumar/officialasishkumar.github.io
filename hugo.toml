@@ -32,7 +32,7 @@ copyright = '&copy; Copyright 2024, Asish Kumar'
         href = "http://github.com/officialasishkumar"
     [[params.social]] 
         fa_icon = "fas fa-coffee fa-1x"
-        href = "https://www.buymeacoffee.com/asishcodes"
+        href = "https://www.buymeacoffee.com/nopecharon"
 
 [services]
   [services.googleAnalytics]
